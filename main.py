@@ -1,1 +1,2 @@
-print("Saludos desde Python")
+variable = "Hola desde Python"
+print(variable)
