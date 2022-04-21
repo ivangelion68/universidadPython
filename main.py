@@ -1,4 +1,4 @@
-variable = "Hola desde Python"
-print(variable)
-variable = 30
-print(variable)
+x = 10
+y = 2
+z = x + y
+print(z)
