@@ -13,4 +13,6 @@
 
 # Cadena (String)
 grupoFavorito = 'Los Bunkers'
+grupoFavorito2 = 'Dua Lipa'
 print("Mi grupo favorito es " + grupoFavorito)
+print("Mi cantante favorito es:", grupoFavorito2)
