@@ -23,6 +23,10 @@
 # else:
 #     print("Resultado no es string")
 
+#
+# calificacion = input("Como estuvo tu dia?:")
+# print("Tu dia estuvo del",calificacion)
 
-calificacion = input("Como estuvo tu dia?:")
-print("Tu dia estuvo del",calificacion)
+titulo = input("Titulo:")
+autor = input("Autor:")
+print(titulo,"fue escrito por",autor)
