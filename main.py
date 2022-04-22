@@ -16,3 +16,9 @@ grupoFavorito = 'Los Bunkers'
 grupoFavorito2 = 'Dua Lipa'
 print("Mi grupo favorito es " + grupoFavorito)
 print("Mi cantante favorito es:", grupoFavorito2)
+
+numero1 = "1"
+numero2 = "2"
+
+suma = int(numero1) + int(numero2)
+print(suma)
